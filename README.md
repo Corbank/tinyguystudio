@@ -1,13 +1,13 @@
 # tinyguystudio
 Welcome to My Personal Website!
 
-Hi, I’m Corban , a student at Edina High School. This website is my little corner of the internet where I share who I am, what I’m passionate about, and some of the cool things I’m working on.
+Hi, I’m Corban, a student at Edina High School. This website is my little corner of the internet where I share who I am, what I’m passionate about, and some of the cool things I’m working on.
 
 About Me
 
 	•	School: Edina High School, Class of 2029
 	•	Interests: Coding, Trombone, Mountain Biking
-	•	Fun Fact: I've been an honor band every year!
+	•	Fun Fact: I've been in an honor band every year!
 
 What’s Here?
 
@@ -16,4 +16,4 @@ What’s Here?
 
 Why This Website?
 
-I built this site to explore [e.g., web design, coding, or just to have a creative outlet] and to keep track of my journey through high school. Thanks for stopping by — feel free to look around!
+I built this site to explore coding and web design and to keep track of my journey through high school. Thanks for stopping by — feel free to look around!
